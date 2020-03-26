@@ -1,0 +1,13 @@
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\bin\Debug\netstandard2.0\EssentialsDemo.deps.json
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\bin\Debug\netstandard2.0\EssentialsDemo.dll
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\bin\Debug\netstandard2.0\ref\EssentialsDemo.dll
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\bin\Debug\netstandard2.0\EssentialsDemo.pdb
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\EssentialsDemo.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\EssentialsDemo.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\EssentialsDemo.AssemblyInfo.cs
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\EssentialsDemo.dll
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\ref\EssentialsDemo.dll
+C:\Users\bryan\source\repos\EssentialsDemo\EssentialsDemo\EssentialsDemo\obj\Debug\netstandard2.0\EssentialsDemo.pdb
