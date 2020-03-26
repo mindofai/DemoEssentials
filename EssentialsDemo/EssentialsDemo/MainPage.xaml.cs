@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin.Essentials;
 
 namespace EssentialsDemo
 {
@@ -18,5 +19,21 @@ namespace EssentialsDemo
             InitializeComponent();
         }
 
+        private void ReadDescription(object sender, EventArgs e)
+        {
+            TextToSpeech.SpeakAsync(description.Text, default);
+        }
+
+        private void CallContactNumber(object sender, EventArgs e)
+        {
+            PhoneDialer.Open(contactNumber.Text);
+        }
+
+        private async void SeeDirections(object sender, EventArgs e)
+        {
+            var location = await Geocoding.GetLocationsAsync(storeAddress.Text);
+
+            await Map.OpenAsync(location.FirstOrDefault(), new MapLaunchOptions { NavigationMode = NavigationMode.Driving });
+        }
     }
 }

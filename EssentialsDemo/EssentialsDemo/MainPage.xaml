@@ -17,7 +17,7 @@
                TextColor="Black"
                FontSize="20"
                FontAttributes="Bold"/>
-            
+
             <!--Description-->
             <Label x:Name="description" Text="Shake and Bake is a cafe/bakery that serves the number one ice cream, fruit shakes, and the freshest pastries in Manila." 
                TextColor="Gray"
@@ -27,7 +27,8 @@
                TextColor="CornflowerBlue"
                BackgroundColor="Navy"
                FontSize="16"
-               FontAttributes="Bold"/>
+               FontAttributes="Bold"
+                    Clicked="ReadDescription"/>
 
             <!--Contact Number-->
             <Label Text="Contact Number" 
@@ -42,7 +43,8 @@
                TextColor="CornflowerBlue"
                BackgroundColor="Navy"
                FontSize="16"
-               FontAttributes="Bold"/>
+               FontAttributes="Bold"
+                    Clicked="CallContactNumber"/>
 
             <!--Store Address-->
             <Label Text="Store Address" 
@@ -57,7 +59,8 @@
                TextColor="CornflowerBlue"
                BackgroundColor="Navy"
                FontSize="16"
-               FontAttributes="Bold"/>
+               FontAttributes="Bold"
+                    Clicked="SeeDirections"/>
         </StackLayout>
     </StackLayout>
 
